@@ -10,11 +10,11 @@ return {
 	_BROOKHAVEN_API = {
 		_main_connected = false,
 		
-		_["4.7"] == {
+		_four_seven == {
 			isconnected = nil
 		},
 		
-		_["4.8"] == {
+		_four_eight == {
 			isconnected = false
 			
 			-- June 2023
