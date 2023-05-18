@@ -52,7 +52,7 @@ return {
 	
 	_rbxev_mode = {
 		_normal_mode = {
-			_ttl = Color3.fromRGB(0, 255, 255),
+			_ttl = Color3.fromRGB(255, 255, 255),
 			_bps = Color3.fromRGB(0, 255, 255),
 			_lblt = Color3.fromRGB(0, 255, 255),
 			_te = tostring("")
