@@ -24,7 +24,7 @@ return {
 	_event_connection = {
 		
 		_HALLOWEEN_CONNECTION = {
-			_halloween = true
+			_halloween = false
 		},
 		
 		_CHRISTMAS_CONNECTION = {
@@ -71,7 +71,7 @@ return {
 			_ttl = Color3.fromRGB(255, 0, 0),
 			_bps = Color3.fromRGB(255, 0, 0),
 			_lblt = Color3.fromRGB(255, 0, 0),
-			_te = tostring("\240\159\142\133"),
+			_te = tostring("\240\159\142\133")
 		}
 	},
 	
