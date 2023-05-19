@@ -68,7 +68,7 @@ return {
 		
 		-- 1 December 2023
 		_christmas_mode = {
-			_ttl = Color3.fromRGB(255, 255, 255),
+			_ttl = Color3.fromRGB(255, 0, 0),
 			_bps = Color3.fromRGB(255, 0, 0),
 			_lblt = Color3.fromRGB(255, 0, 0),
 			_te = tostring("\240\159\142\133")
