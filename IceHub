@@ -6,22 +6,6 @@ return {
 		_img = "9329990575"
 	},
 	
-	_BROOKHAVEN_API = {
-		_main_connected = false,
-		
-		_four_seven = {
-			isconnected = nil
-		},
-		
-		_four_eight = {
-			isconnected = false,
-			_wrnt = false,
-			_wrnms = "",
-			
-			-- June 2023
-		}
-	},
-	
 	_event_connection = {
 		
 		_HALLOWEEN_CONNECTION = {
@@ -59,7 +43,7 @@ return {
 			_te = tostring("")
 		},
 		
-		-- 10 October 2023
+		-- 5 October 2023
 		_halloween_mode = {
 			_ttl = Color3.fromRGB(255, 85, 0),
 			_bps = Color3.fromRGB(255, 85, 0),
