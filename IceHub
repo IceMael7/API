@@ -1,4 +1,11 @@
 return {
+	_credits = {
+		_icy = "xglacial",
+		_hexr = "xyz.hexr",
+		_xred = "Xred#6001",
+		_img = "9329990575"
+	},
+
 	_event_connection = {
 
 		_HALLOWEEN_CONNECTION = {
@@ -10,6 +17,24 @@ return {
 		}
 	},
 
+	_ADOPT_ME_API = {
+		_main_connected = false,
+
+		_adopt_me_halloween = {
+			_minimage_1 = nil,
+			_minigame_2 = nil,
+			_wrnt = true,
+			_wrnms = "Many exploiters get banned during the Halloween event, be sure to use your alt account."
+		},
+
+		_adopt_me_christmas = {
+			_minimage_1 = nil,
+			_minigame_2 = nil,
+			_wrnt = true,
+			_wrnms = "Many exploiters get banned during the Christmas event, be sure to use your alt account."
+		}
+	},
+
 	_rbxev_mode = {
 		_normal_mode = {
 			_ttl = Color3.fromRGB(255, 255, 255),
@@ -18,6 +43,7 @@ return {
 			_te = tostring("")
 		},
 
+		-- 5 October 2023
 		_halloween_mode = {
 			_ttl = Color3.fromRGB(255, 85, 0),
 			_bps = Color3.fromRGB(255, 85, 0),
