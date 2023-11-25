@@ -13,7 +13,7 @@ return {
 		},
 
 		_CHRISTMAS_CONNECTION = {
-			_christmas = false
+			_christmas = true
 		}
 	},
 
